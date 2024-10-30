@@ -11,7 +11,24 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
-# Contacts
-<div>
-<a href="https://www.linkedin.com/in/matheusolivdev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+  <a href="https://www.linkedin.com/in/jennyfer-alvim-de-oliveira-800441263/">
+    <img src="https://img.shields.io/badge/-Linkedin-00F7B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
+  </a>
+  <a href="https://github.com/matheus-dev-oliveira">
+    <img src="https://img.shields.io/github/followers/matheus-dev-oliveira?label=follow&style=social&color=9370DB" alt="GitHub" style="width: 182px;">
+  </a>
 </div>
+
+
+</div>
+<br>
+<br>
+
+
+
+ 
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=footer"/>
