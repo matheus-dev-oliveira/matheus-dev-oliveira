@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!+Eu+me+chamo+Matheus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7B5&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+Vindo!+Eu+me+chamo+Matheus)](https://git.io/typing-svg)
+
 <div>
 <a href="https://github.com/matheus-dev-oliveira">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisuetti&layout=compact&langs_count=7&theme=nightowl"/> 
