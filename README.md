@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!+Eu+sou+Matheus)](https://git.io/typing-svg)Bem Vindo! Eu sou Matheus
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!+Eu+sou+Matheus)](https://git.io/typing-svg)
 <div>
 <a href="https://github.com/matheus-dev-oliveira">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisuetti&layout=compact&langs_count=7&theme=nightowl"/> 
