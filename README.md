@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7B5&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=verdadeiro&width=435&lines=Ol%C3%A1%2C+Sejam+Muito+Vem+Vindos!++Eu+me+chamo+Matheus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7B5&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=verdadeiro&width=535&lines=Ol%C3%A1%2C+Sejam+Muito+Bem+Vindos!++Eu+me+chamo+Matheus)](https://git.io/typing-svg)
 
 <div>
 <a href="https://github.com/matheus-dev-oliveira">
