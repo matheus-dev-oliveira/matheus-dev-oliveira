@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F7B5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7B5&center=true&vCenter=true&multiline=true&repeat=verdadeiro&random=verdadeiro&width=835&lines=Ol%C3%A1%2C+seja+Bem+Vindo+ao+meu+GitHub,+Eu+me+chamo+Matheus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7B5&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+o+Matheus,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 <div>
 <a href="https://github.com/matheus-dev-oliveira">
